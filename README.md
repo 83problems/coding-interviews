@@ -15,6 +15,8 @@ This repository is used to learn more about Algorithms and Data Structures in Py
     - [Easy] [Contains Duplicate](https://github.com/83problems/leetcode/tree/main/contains-duplicate)
   - Sorting
     - [Easy] [Palindrome Number](https://github.com/83problems/leetcode/tree/main/palindrome-number)
+  - Stack
+    - [Easy] [Valid Parentheses](https://github.com/83problems/leetcode/tree/main/valid-parentheses)
   - String
     - [Easy] [Valid Anagram](https://github.com/83problems/leetcode/tree/main/valid-anagram)
   - Tow Pointers
